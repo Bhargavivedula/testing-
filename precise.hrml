@@ -1,0 +1,11 @@
+<h1>AI Result (Precise Prompt)</h1>
+
+<p>Prompt: "Create a signup form with name, email, password, validation, labels, and submit button"</p>
+
+<p>Output:</p>
+<ul>
+  <li>Clear labels</li>
+  <li>Proper input types</li>
+  <li>Validation included</li>
+  <li>Better structure</li>
+</ul>
